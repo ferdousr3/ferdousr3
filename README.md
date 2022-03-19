@@ -1,4 +1,4 @@
-<!-- <div align="center">
+ <!-- <div align="center">
 <img width="100%" height = "350px" src="https://raw.githubusercontent.com/ferdousr3/f-g-banner/main/js%20(1).png" alt="cover" />
 </div> -->
 
@@ -30,7 +30,10 @@
 <a href= https://github.com/ferdousr3?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a trarget="_blank" href = 'https://www.linkedin.com/in/ferdousr3'> Linkedin</a> 
-<a href = 'https://www.twitter.com/ferdousr3'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/ferdousr3'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<div style="display:flex; align-items:center;margin-top: 15px;">
+  <h2> Connect with me  </h2>
+  <img  src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+</div>
+<a style="text-decoration: none; margin:0px 5px" target="_blank" href = 'https://www.linkedin.com/in/ferdousr3'> Linkedin</a> 
+<a style="text-decoration: none; margin:0px 5px" target="_blank" href = 'https://www.twitter.com/ferdousr3'> Twitter</a> 
+<a  style="text-decoration: none; margin:0px 5px" target="_blank" href = 'https://www.github.com/ferdousr3'> Github</a> 
