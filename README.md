@@ -7,7 +7,10 @@
  -->
 
 </p>
-<div size='20px'>My name is MD.Ferdous. 
+<div size='20px'>
+  Hi,
+  <br>
+  My name is MD.Ferdous. 
 </div>
 
 <!-- <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2> -->
@@ -30,10 +33,7 @@
 <a href= https://github.com/ferdousr3?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
 
 
-<div style="display:flex; align-items:center;margin-top: 15px;">
-  <h2> Connect with me  </h2>
-  <img  src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-</div>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a style="text-decoration: none; margin:0px 5px" target="_blank" href = 'https://www.linkedin.com/in/ferdousr3'> Linkedin</a> 
 <a style="text-decoration: none; margin:0px 5px" target="_blank" href = 'https://www.twitter.com/ferdousr3'> Twitter</a> 
 <a  style="text-decoration: none; margin:0px 5px" target="_blank" href = 'https://www.github.com/ferdousr3'> Github</a> 
