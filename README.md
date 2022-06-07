@@ -15,12 +15,15 @@
 
 <!-- <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2> -->
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
- I am a professional Web Designer and Developer with an experience of more than 3.1 years and strong expertise in HTML, CSS, JavaScript, React, Redux, Js, NextJs, NodeJs, Bootstrap, Tailwindcss, Material UI, MongoDB, Linux Server configuration, and Deployment. Thanks for visiting my profile and for your time. Have a good day. 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+ • Expertise: HTML5, CSS3, Bootstrap5, JavaScript, ES6, REST API, ReactJS, React-Router,NextJS, React-Bootstrap, Authentication, Tailwind CSS, And  Material UI.
+• Comfortable: Node JS, MongoDB, Express JS, And Payment Method.
+• Familiar: With react Native,  React Query, React Hook Form, And Typescript.
+• Tools: GitHub, Firebase, Netlify, Heroku, VS Code, And Chrome Dev T 
+
+<!-- <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2> -->
 <a href= https://github.com/ferdousr3?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/ferdousr3?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/ferdousr3?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
