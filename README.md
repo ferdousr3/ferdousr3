@@ -18,10 +18,10 @@
 
 
 
-• <b>Expertise:</b> HTML5, CSS3, Bootstrap5, JavaScript, ES6, REST API, ReactJS, React-Router,NextJS, React-Bootstrap, Authentication, Tailwind CSS, And  Material UI. </br>
-• <b>Comfortable:</b> Node JS, MongoDB, Express JS, And Payment Method.  </br>
-• <b>Familiar:</b> With react Native,  React Query, React Hook Form, And Typescript.  </br>
-• <b>Tools:</b> GitHub, Firebase, Netlify, Heroku, VS Code, And Chrome Dev Tool
+ <b>Expertise:</b> HTML5, CSS3, Bootstrap5, JavaScript, ES6, REST API, ReactJS, React-Router,NextJS, React-Bootstrap, Authentication, Tailwind CSS, And  Material UI. </br>
+<b>Comfortable:</b> Node JS, MongoDB, Express JS, And Payment Method.  </br>
+ <b>Familiar:</b> With react Native,  React Query, React Hook Form, And Typescript.  </br>
+ <b>Tools:</b> GitHub, Firebase, Netlify, Heroku, VS Code, And Chrome Dev Tool
 
 
 
