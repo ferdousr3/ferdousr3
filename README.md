@@ -27,13 +27,13 @@
 
 <!----<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">---->
 <h2> Connect with me  </h2>
-<a style="text-decoration: none; margin:0px 8px" target="_blank" href = 'https://www.linkedin.com/in/ferdousr3'>
-   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?logo=LinkedIn&logoColor=white&logoWidth=30" alt="Linkedin">
+<a style="text-decoration: none; margin:0px 6px" target="_blank" href = 'https://www.linkedin.com/in/ferdousr3'>
+   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?logo=LinkedIn&logoColor=white&logoWidth=15" alt="Linkedin">
   </a> 
-<a style="text-decoration: none; margin:0px 8px" target="_blank" href = 'https://www.twitter.com/ferdousr3'> 
-  <img src="https://img.shields.io/badge/-Twitter-00acee?logo=Twitter&logoColor=white&logoWidth=30" alt="Linkedin">
+<a style="text-decoration: none; margin:0px 6px" target="_blank" href = 'https://www.twitter.com/ferdousr3'> 
+  <img src="https://img.shields.io/badge/-Twitter-00acee?logo=Twitter&logoColor=white&logoWidth=15" alt="Linkedin">
 </a> 
-<a style="text-decoration: none; margin:0px 8px" target="_blank" href = 'https://www.github.com/ferdousr3'> 
-  <img src="https://img.shields.io/badge/-GitHub-222021?logo=GitHub&logoColor=white&logoWidth=30" alt="Linkedin">
+<a style="text-decoration: none; margin:0px 6px" target="_blank" href = 'https://www.github.com/ferdousr3'> 
+  <img src="https://img.shields.io/badge/-GitHub-222021?logo=GitHub&logoColor=white&logoWidth=15" alt="Linkedin">
 </a> 
 
