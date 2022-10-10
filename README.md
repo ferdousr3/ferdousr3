@@ -43,9 +43,9 @@
 
 **Familiar-With :**
 
- [<img src="https://img.shields.io/badge/-React native-61DAFB?style=for-the-badge&logo=react&logoColor=white">]()
- [<img src="https://img.shields.io/badge/-React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">]()
- [<img src="https://img.shields.io/badge/-React Hook Form-EC5990?style=for-the-badge&logo=ReactHookForm&logoColor=white">]()
+ [<img src="https://img.shields.io/badge/-React native-61DAFB?style=for-the-badge&logo=react&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+ [<img src="https://img.shields.io/badge/-React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+ [<img src="https://img.shields.io/badge/-React Hook Form-EC5990?style=for-the-badge&logo=ReactHookForm&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
 
  </br>
 
