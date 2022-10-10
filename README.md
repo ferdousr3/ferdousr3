@@ -6,7 +6,12 @@
 
 ## 🚀 About Me
 
-🎓 I am MD.Ferdous, a **front-end web Developer**. I can easy to integrate into a team, and responsible enough to work with no supervision. I have a growth mindset, embracing challenges to continuously improve and innovate. I love to explore and learn new technologies.
+🎓 I am MD.Ferdous, a **front-end web Developer**  (specializing in **React Applications**). I have also completed **web development** and **redux** courses with my **MBA** Degree. 
+
+</br>
+
+👨‍💻 I love to explore and learn new technologies. I am eager to learn even more skills and technologies to sharpen my knowledge. In addition to web development, I do have a passion for mobile technologies as well as **Android apps**.
+
 
 ## 🛠️ Skills
 
@@ -21,8 +26,8 @@
 [<img src="https://img.shields.io/badge/-react router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
 [<img src="https://img.shields.io/badge/-next js-000000?style=for-the-badge&logo=next.js&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
 [<img src="https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
-[<img src="https://img.shields.io/badge/-rest api-4285F4?style=for-the-badge&logo=fastapi&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
-[<img src="https://img.shields.io/badge/-  Authentication-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-rest api-4285F4?style=for-the-badge&logo=Amazon CloudWatch&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-  Authentication-EB5424?style=for-the-badge&logo=AdGuard&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
 [<img src="https://img.shields.io/badge/- react bootstrap-764ABC?style=for-the-badge&logo=bootstrap&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
 [<img src="https://img.shields.io/badge/-  Tailwind css-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
 [<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
@@ -35,8 +40,10 @@
 
  [<img src="https://img.shields.io/badge/-node js-339933?style=for-the-badge&logo=node.js&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
  [<img src="https://img.shields.io/badge/-mongo DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+ [<img src="https://img.shields.io/badge/-mongoose-C70D2C?style=for-the-badge&logo=Spring Security&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
  [<img src="https://img.shields.io/badge/-Express js-000000?style=for-the-badge&logo=express&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
  [<img src="https://img.shields.io/badge/-stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+ [<img src="https://img.shields.io/badge/-jwt-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
 </br>
 
 **Familiar-With :**
@@ -45,7 +52,7 @@
  [<img src="https://img.shields.io/badge/-React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
  [<img src="https://img.shields.io/badge/-React Hook Form-EC5990?style=for-the-badge&logo=ReactHookForm&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
  </br>
- 
+
 **Tools:**
 
  [<img src="https://img.shields.io/badge/-github-EC5990?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
