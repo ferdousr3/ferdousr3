@@ -43,9 +43,9 @@
 
 **Familiar-With :**
 
- <img src="https://img.shields.io/badge/-React native-61DAFB?style=for-the-badge&logo=react&logoColor=white">
- <img src="https://img.shields.io/badge/-React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
- <img src="https://img.shields.io/badge/-React Hook Form-EC5990?style=for-the-badge&logo=React Hook Form&logoColor=white">
+ [<img src="https://img.shields.io/badge/-React native-61DAFB?style=for-the-badge&logo=react&logoColor=white">]()
+ [<img src="https://img.shields.io/badge/-React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">]()
+ [<img src="https://img.shields.io/badge/-React Hook Form-EC5990?style=for-the-badge&logo=ReactHookForm&logoColor=white">]()
 
  </br>
 
