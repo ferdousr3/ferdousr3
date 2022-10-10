@@ -12,32 +12,32 @@
 
 **Expertise:**
 
-<img src="https://img.shields.io/badge/-htnl5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/-es6-F2D732?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/-react js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/-react router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
-<img src="https://img.shields.io/badge/-next js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/-rest api-4285F4?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/-  Authentication-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
-<img src="https://img.shields.io/badge/- react bootstrap-764ABC?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-  Tailwind css-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-mui-007FFF?style=for-the-badge&logo=mui&logoColor=white">
-<img src="https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/-chakra ui-319795?style=for-the-badge&logo=chakraui&logoColor=white">
+[<img src="https://img.shields.io/badge/-htnl5-E34F26?style=for-the-badge&logo=html5&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-es6-F2D732?style=for-the-badge&logo=javascript&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-react js-61DAFB?style=for-the-badge&logo=react&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-react router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-next js-000000?style=for-the-badge&logo=next.js&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-rest api-4285F4?style=for-the-badge&logo=fastapi&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-  Authentication-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/- react bootstrap-764ABC?style=for-the-badge&logo=bootstrap&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-  Tailwind css-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-mui-007FFF?style=for-the-badge&logo=mui&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+[<img src="https://img.shields.io/badge/-chakra ui-319795?style=for-the-badge&logo=chakraui&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
 
  </br>
 
 **Comfortable:**
 
- <img src="https://img.shields.io/badge/-node js-339933?style=for-the-badge&logo=node.js&logoColor=white">
- <img src="https://img.shields.io/badge/-mongo DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
- <img src="https://img.shields.io/badge/-Express js-000000?style=for-the-badge&logo=express&logoColor=white">
- <img src="https://img.shields.io/badge/-stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white">
+ [<img src="https://img.shields.io/badge/-node js-339933?style=for-the-badge&logo=node.js&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+ [<img src="https://img.shields.io/badge/-mongo DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+ [<img src="https://img.shields.io/badge/-Express js-000000?style=for-the-badge&logo=express&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+ [<img src="https://img.shields.io/badge/-stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
 
 </br>
 
@@ -51,13 +51,13 @@
 
 **Tools:**
 
- <img src="https://img.shields.io/badge/-github-EC5990?style=for-the-badge&logo=github&logoColor=white">
- <img src="https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white">
- <img src="https://img.shields.io/badge/-firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
- <img src="https://img.shields.io/badge/-netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
- <img src="https://img.shields.io/badge/-heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
- <img src="https://img.shields.io/badge/-vs code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
- <img src="https://img.shields.io/badge/-Chrome Dev Tool-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
+ [<img src="https://img.shields.io/badge/-github-EC5990?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+ [<img src="https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+ [<img src="https://img.shields.io/badge/-firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+ [<img src="https://img.shields.io/badge/-netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+ [<img src="https://img.shields.io/badge/-heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+ [<img src="https://img.shields.io/badge/-vs code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
+ [<img src="https://img.shields.io/badge/-Chrome Dev Tool-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">](https://github.com/ferdousr3/ferdousr3/blob/main/README.md)
 
 </br>
 
